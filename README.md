@@ -215,13 +215,12 @@ By identifying customers who are more likely to churn and understanding the reas
 ```text
 Telecommunication-Customer-Churn-Analysis/
 │
-├── 📊 Telecommunication_Churn_Analysis.xlsx
+├── 📊 Photos_Telecommunication
 │
 ├── 📄 README.md
 │
-└── 📁 Images/
-    └── Dashboard / Analysis screenshots
-```
+└── Telecommunication_Churn_Analysis.xlsx
+
 
 ---
 
