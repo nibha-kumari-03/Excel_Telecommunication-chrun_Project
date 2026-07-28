@@ -46,7 +46,7 @@ The dataset contains customer-level information such as:
 
 ---
 
-## 📋 Important Features
+## 📋 Dataset Columns
 
 | Feature                         | Description                                    |
 | ------------------------------- | ---------------------------------------------- |
