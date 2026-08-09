@@ -1,6 +1,6 @@
-# 📊 Churn Quest: Navigating the Waves of Customer Retention in Telecommunications
+# Churn Quest: Navigating the Waves of Customer Retention in Telecommunications
 
-## 📌 Project Overview
+## Project Overview
 
 **Churn Quest** is a customer churn analysis project based on a telecommunications dataset.
 
@@ -10,7 +10,7 @@ The analysis focuses on customer behavior, service usage, subscription plans, cu
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 The telecommunications company has noticed an increase in customers discontinuing their services.
 
@@ -24,7 +24,7 @@ The main objective of this project is to:
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains customer-level information such as:
 
@@ -37,7 +37,7 @@ The dataset contains customer-level information such as:
 * Customer service calls
 * Customer churn status
 
-### 🎯 Target Variable
+### Target Variable
 
 **Churn**
 
@@ -46,7 +46,7 @@ The dataset contains customer-level information such as:
 
 ---
 
-## 📋 Dataset Columns
+## Dataset Columns
 
 | Feature                         | Description                                    |
 | ------------------------------- | ---------------------------------------------- |
@@ -73,7 +73,7 @@ The dataset contains customer-level information such as:
 
 ---
 
-## 🔍 Key Analysis Questions
+## Key Analysis Questions
 
 ### Basic Analysis
 
@@ -92,7 +92,7 @@ The project investigates questions such as:
 
 ---
 
-## 🛠️ Analysis Approach
+## Analysis Approach
 
 The project follows a structured data analysis process:
 
@@ -142,7 +142,7 @@ Charts and graphs were used to make patterns easier to understand, including:
 
 ---
 
-## 💡 Key Outcomes
+## Key Outcomes
 
 The analysis helps identify the major factors that may be associated with customer churn.
 
@@ -158,7 +158,7 @@ Some important areas of focus include:
 
 ---
 
-## 📈 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, a telecommunications company can consider:
 
@@ -178,7 +178,7 @@ Based on the analysis, a telecommunications company can consider:
 
 ---
 
-## 📊 Skills Demonstrated
+## Skills Demonstrated
 
 Through this project, I practiced:
 
@@ -195,7 +195,7 @@ Through this project, I practiced:
 
 ---
 
-## 🎯 Business Impact
+## Business Impact
 
 Customer churn can directly affect a telecommunications company's **revenue, customer base, and market position**.
 
@@ -210,7 +210,7 @@ By identifying customers who are more likely to churn and understanding the reas
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Telecommunication-Customer-Churn-Analysis/
@@ -224,15 +224,9 @@ Telecommunication-Customer-Churn-Analysis/
 
 ---
 
-## 🚀 Conclusion
 
-This project provided practical experience in analyzing customer churn and converting raw customer data into meaningful business insights.
 
-The analysis demonstrates how data analytics can help telecommunications companies **understand customer behavior, identify churn-risk segments, and develop better customer retention strategies**.
-
----
-
-## 👩‍💻 Author
+## Author
 
 **Nibha Kumari**
 
